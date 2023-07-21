@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/simple-reddit-searcher-app/static/css/main.6791d26c.css",
+    "main.js": "/simple-reddit-searcher-app/static/js/main.8a557d5f.js",
+    "static/media/astronaut.jpg": "/simple-reddit-searcher-app/static/media/astronaut.0fdbb4f5269db92a4377.jpg",
+    "index.html": "/simple-reddit-searcher-app/index.html",
+    "main.6791d26c.css.map": "/simple-reddit-searcher-app/static/css/main.6791d26c.css.map",
+    "main.8a557d5f.js.map": "/simple-reddit-searcher-app/static/js/main.8a557d5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6791d26c.css",
+    "static/js/main.8a557d5f.js"
+  ]
+}
